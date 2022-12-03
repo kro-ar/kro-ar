@@ -1,7 +1,7 @@
 ## Saludos 🖖 Soy Carolina Arias
 
 ### Desarrolladora Web y Diseñadora UX/UI
-![cover](https://media-exp1.licdn.com/dms/image/C4D16AQG_ZWKWyel-Fg/profile-displaybackgroundimage-shrink_350_1400/0/1661539387570?e=1675296000&v=beta&t=9cjReh5_vYHdhGkeKegWkedCjwYK_bjqm1b5tsCzcTs)
+![cover]([https://media-exp1.licdn.com/dms/image/C4D16AQG_ZWKWyel-Fg/profile-displaybackgroundimage-shrink_350_1400/0/1661539387570?e=1675296000&v=beta&t=9cjReh5_vYHdhGkeKegWkedCjwYK_bjqm1b5tsCzcTs](https://media-exp1.licdn.com/dms/image/D4D16AQGIvBeyWDmPrA/profile-displaybackgroundimage-shrink_350_1400/0/1670014110163?e=1675296000&v=beta&t=ZZbyqcj9gqQ3udknomf_cZLI6q_4WUani1J2F4Ex_xE))
 ---
 Soy estudiante de Ingenieria en Sistemas y estudiante de Desarrollo Web Full-Stack enfocado al Diseño UX/UI.
 Aspiro conseguir mi primer empleo en el mundo del Desarrollo Web, adquirir experiencia y fortalecer mi vida profesional.
